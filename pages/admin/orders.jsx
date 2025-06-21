@@ -47,4 +47,5 @@ function AdminOrders() {
   );
 }
 
-export default withAdminAuth(AdminOrder)
+// FIX: Export the correct component (AdminOrders, not AdminOrder)
+export default withAdminAuth(AdminOrders);
