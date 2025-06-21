@@ -1,0 +1,12 @@
+[
+  {
+    "id": "women",
+    "name": "Women's Collection",
+    "image": "https://readdy.ai/api/search-image?query=elegant%20fashion%20photography%20of%20a%20stylish%20woman%20in%20premium%20minimalist%20clothing%2C%20standing%20confidently%20in%20a%20modern%20studio%20with%20soft%20lighting%2C%20professional%20fashion%20photography%2C%20high%20contrast%2C%20commercial%20quality%2C%20fashion%20editorial%20style%2C%20premium%20clothing%20brand&width=800&height=1000&seq=6&orientation=portrait"
+  },
+  {
+    "id": "men",
+    "name": "Men's Collection",
+    "image": "https://readdy.ai/api/search-image?query=elegant%20fashion%20photography%20of%20a%20stylish%20man%20in%20premium%20minimalist%20clothing%2C%20standing%20confidently%20in%20a%20modern%20studio%20with%20soft%20lighting%2C%20professional%20fashion%20photography%2C%20high%20contrast%2C%20commercial%20quality%2C%20fashion%20editorial%20style%2C%20premium%20clothing%20brand&width=800&height=1000&seq=7&orientation=portrait"
+  }
+]

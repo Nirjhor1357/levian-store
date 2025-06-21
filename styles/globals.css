@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Quick View, Cart Drawer, Empty States, etc. */
+.product-card:hover .quick-view {
+  opacity: 1;
+}
